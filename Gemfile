@@ -8,6 +8,7 @@ group :development, :test do
  gem 'sqlite3'
  gem 'rspec-rails', '2.13.1'
  gem 'spork', '0.9.0.rc5'
+ gem 'webrat'
 end
 
 group :test do
